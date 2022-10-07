@@ -12,3 +12,13 @@ and then
 ```bash
 docker-compose up
 ```
+
+
+Access
+```url
+http://localhost:8080
+```
+user: `airflow`  
+pass: `airflow`  
+
+
